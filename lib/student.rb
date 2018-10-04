@@ -1,3 +1,3 @@
-Class Student
+class Student
 
 end
