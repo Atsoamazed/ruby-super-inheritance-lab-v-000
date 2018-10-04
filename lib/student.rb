@@ -7,7 +7,8 @@ def hello
 end
 
 
-def
+def raise_hand
+  puts "Pick me!"
 
 end
 
